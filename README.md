@@ -1,4 +1,6 @@
 ### Hello there 👋
+- 🔭 I’m currently working on a shop
+- - 🌱 I’m currently learning Vue.js
 
 <!--
 **enzo-mandine/enzo-mandine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
